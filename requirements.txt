@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+hmmlearn
+pandas-datareader
+yfinance
+pushbullet.py
